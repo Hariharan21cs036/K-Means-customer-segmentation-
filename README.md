@@ -1,6 +1,6 @@
 
 <div align="center">
-   <centre><h1>STOCK MARKET PREDICTION</centre><br />
+   <centre><h1>K-Means customer segmentation</centre><br />
       </div>
 
 
