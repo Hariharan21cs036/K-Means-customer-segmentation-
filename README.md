@@ -8,23 +8,20 @@
 <p align="center">
   <img src="https://github.com/Hariharan21cs036/K-Means-customer-segmentation-/blob/main/images/Customer-Segmentation.jpg" width="400" height="240" >
 </p>
-Stock price analysis has been a critical area of research and is one of the top applications of machine.
-So, I focused on building a Time-Efficient and approximate stock predictions, for google stocks with the RNN using LSTM Keras model.
+The Customer segmentation is a part of K-Means Clustering Algorithm.The K-Means Algorithm is an Unsupervised Learning algorithm.
 <h2>ABOUT</h2>
 
-**What is the Stock Market?**
-
-A stock market is a public market where you can buy and sell shares for publicly listed companies.
-The stocks, also known as equities, represent ownership in the company.
-The stock exchange is the mediator that allows the buying and selling of shares.
+**What is  K-Means Clustering Algorithm ?**
+K-Means is a popular clustering algorithm used in machine learning and data analysis. 
+It is an unsupervised learning technique that groups data points into clusters based on their similarity. 
 
 
-**Importance of Stock Market**
+**Importance of K-Means Clustering Algorithm **
 
-1. Stock markets help companies to raise capital.
-2. It helps generate personal wealth.
-3. Stock markets serve as an indicator of the state of the economy.
-4. It is a widely used source for people to invest money in companies with high growth potential.
+1. K-Means helps in exploring and understanding the underlying structure within a dataset.
+2. K-Means can be used in image compression by clustering similar pixel values together.
+3. K-Means can be part of recommendation systems to cluster users or items based on their behavior or features. 
+4. K-Means can be used for data reduction, which is valuable in scenarios where storage or transmission of data is costly or limited.
 
 <h2>TECHNOLOGIES USED</h2>
 <p align="center">
