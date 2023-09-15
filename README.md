@@ -25,7 +25,7 @@ It is an unsupervised learning technique that groups data points into clusters b
 
 <h2>TECHNOLOGIES USED</h2>
 <p align="center">
-  <img src="inteloneapi.jpg" width="400" height="240" >
+  <img src="images/inteloneapi.jpg" width="400" height="240" >
 </p>
 
 The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#gs.3btkxe), [Intel® K-Mean Clustering algorithm](https://www.intel.com/content/www/us/en/docs/programmable/683395/current/k-mean-clustering-algorithm.html) The goal of K-Means clustering is to partition a dataset into K distinct, non-overlapping clusters, where each data point belongs to the cluster with the nearest mean.
