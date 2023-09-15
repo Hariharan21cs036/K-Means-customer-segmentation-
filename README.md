@@ -28,8 +28,7 @@ It is an unsupervised learning technique that groups data points into clusters b
   <img src="https://github.com/kamesh0407/stock_market_prediction/blob/main/InteloneAPI.jpg" width="400" height="240" >
 </p>
 
-The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#gs.3btkxe), [Intel® OpenVINO toolkit](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html) enables models to be trained in a more efficient way and results in faster training times. ADAM optimization algorithm is used and a MSE loss function is optimized.
-
+The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#gs.3btkxe), [Intel® K-Mean Clustering algorithm](https://www.intel.com/content/www/us/en/docs/programmable/683395/current/k-mean-clustering-algorithm.html) The goal of K-Means clustering is to partition a dataset into K distinct, non-overlapping clusters, where each data point belongs to the cluster with the nearest mean.
 
 
 
