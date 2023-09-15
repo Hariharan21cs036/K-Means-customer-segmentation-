@@ -42,4 +42,7 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
  <li>Users can visualize regression models using Yellowbrick, with features like residual plots, prediction error plots, and partial dependence plots for understanding how specific features affect predictions.</li>
  <li>Users can extend Yellowbrick by creating custom visualizers and integrating them into their machine learning pipelines, making it a flexible tool for specialized tasks.</li>
  
+ <p align="center">
+  <img src="images/YellowBrick.png" width="400" height="240" >
+</p>
 
