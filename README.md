@@ -33,36 +33,13 @@ The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/t
 
 
 
-<h2>METHODOLOGY</h2>
-<li>The model was trained using Google's stock market data(Date, Open, High, Low, Close, Volume) to enhance its technical proficiency.
-</li>
-<li>  The keras model helps to create a model, layer by layer. The dense layer is fully connected layer, so all the neurons in a layer are connected to those in a next layer by using tensorflow as a backend.</li>
+<h2>YellowBrick</h2>
+<li>Yellowbrick is a Python library that is designed to enhance the visualizations and diagnostics of machine learning models.</li>
+<li>Yellowbrick includes tools for visualizing text data, such as term frequency-inverse document frequency (TF-IDF) matrices and visualizations for text classification tasks.</li>
 <br/>
 
-**LONG SHORT TERM MEMORY NETWORK:**
- LTSMs are a type of Recurrent Neural Network for learning long-term dependencies.
-It is commonly used for processing and predicting time-series data.
+**Features of Yellowbrick**
+ <li>Users can visualize regression models using Yellowbrick, with features like residual plots, prediction error plots, and partial dependence plots for understanding how specific features affect predictions.</li>
+ <li>Users can extend Yellowbrick by creating custom visualizers and integrating them into their machine learning pipelines, making it a flexible tool for specialized tasks.</li>
+ 
 
-<h2>PLATFORMS</h2>
-
-
-**CODES IN DIFFERENT PLATFORMS:**
-
-It tooks nearly 48seconds to 58 seconds to run single keras model files in Jupyter n0tebook
-But in OPENVINO it took 135 milliseconds to 141 milliseconds to run it where this keras model consist of 100 files to run it and make to fit for the model.
-
-<br/>
-
-<div align="center">
-   <centre><h2> openVINO notebook</centre><br />
-      </div>
-
-![image](https://user-images.githubusercontent.com/105495867/225071699-5ec37228-52c1-4280-ab0f-9202d2b5ab42.png)
-
-<div align="center">
-   <centre><h2>local machine's notebook
-</centre><br />
-      </div>
-
-
-  ![image](https://user-images.githubusercontent.com/105495867/225222368-8dacf339-445f-4b2c-8404-53a0526ef6ca.png)
